@@ -8,7 +8,7 @@ A simple React app that allows users to add, view, and delete notes. All data is
 
 ## 📂 GitHub Repository
 
-👉 [GitHub Repository](https://github.com/your-username/custom-note-app)
+👉 [GitHub Repository](https://github.com/NishantSingh2964/Custom-Note-Service)
 
 ---
 
@@ -16,7 +16,7 @@ A simple React app that allows users to add, view, and delete notes. All data is
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/custom-note-app
+   git clone https://github.com/NishantSingh2964/Custom-Note-Service
    cd custom-note-app
 Install dependencies:
 
