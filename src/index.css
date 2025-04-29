@@ -87,16 +87,17 @@ button {
   margin-top: 0.5rem;
 }
 
-.note button {
-  background-color: #c62828;
-  color: white;
-  border: none;
-  padding: 0.4rem 0.8rem;
+.error-banner {
+  background-color: #ffebee;
+  color: #c62828;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border: 1px solid #c62828;
   border-radius: 6px;
-  cursor: pointer;
-  transition: background 0.3s;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
 }
 
-.note button:hover {
-  background-color: #8e0000;
+.error-banner.fade-out {
+  opacity: 0;
 }
