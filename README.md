@@ -8,11 +8,11 @@ A simple React app that allows users to add, view, and delete notes. All data is
 
 ## 🖼️ Screenshots
 
-### Admin Panel  
-![Admin Panel Screenshot](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(41).png)
+### Add Notes 
+![Add Notesl Screenshot](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(41).png)
 
-### Student Information  
-![Student Info Screenshot](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(42).png)
+### View Notes  
+![View Notes](https://github.com/NishantSingh2964/Student-Management-Dashboard/blob/main/Screenshot%20(42).png)
 
 ---
 
