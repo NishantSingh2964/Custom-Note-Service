@@ -6,9 +6,9 @@ A simple React app that allows users to add, view, and delete notes. All data is
 
 👉 [Live Site on Netlify](https://custom-note-service-nu.vercel.app/)
 
-## 📂 GitHub Repository
+## Add Notes Page
 
-👉 [GitHub Repository](https://github.com/NishantSingh2964/Custom-Note-Service)
+👉 [Add Notes](https://github.com/NishantSingh2964/Custom-Note-Service/blob/main/Screenshot%20(43).png)
 
 ---
 
